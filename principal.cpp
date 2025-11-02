@@ -1,7 +1,6 @@
 #include <iostream>
 int main()
 {
-  std::cout <<"Hello top-it!\n";
+  std::cout <<"Hi top-it!\n";
   std::cout <<"\n";
-  std::cout <<"Meu nome é Fernando Alberto\n";
 }
